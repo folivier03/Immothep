@@ -5,4 +5,4 @@ Pour enrichir sa plateforme et acquérir de nouveaux acheteurs/vendeurs, la soci
  Voir le fichier [requirements.txt]()
 # Usage
 Lancer le serveur uvicorn:
-uvicorn main:app --reload
+uvicorn src.main:app --reload
